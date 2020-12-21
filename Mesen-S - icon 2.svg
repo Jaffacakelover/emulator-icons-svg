@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_2_1_" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#923404;}
+	.st2{fill:#CC9E22;}
+</style>
+<rect x="4" y="4" class="st0" width="120" height="120"/>
+<rect x="32" y="40" class="st0" width="64" height="48"/>
+<path class="st1" d="M64,0H0v64v64h64h64V64V0H64z M120,120H64H8V64V8h56h56v56V120z"/>
+<g>
+	<polygon class="st1" points="72,56 72,48 56,48 56,56 48,56 48,72 56,72 56,80 72,80 72,72 80,72 80,56 	"/>
+	<polygon class="st0" points="64,64 56,64 56,60 56,56 64,56 64,60 	"/>
+</g>
+<path class="st2" d="M104,56l8-8v-8h-8v-8H88v-8H40v8H24v8h-8v8l8,8H8v16h8v8h8v8h8v8h16v8h32v-8h16v-8h8v-8h8v-8h8V56H104z M96,72
+	h-8v8l-8,8l-16,8l-16-8l-8-8v-8h-8V56h8v-8h8V32h32v16h8v8h8V72z"/>
+<g>
+	<polygon class="st1" points="88,40 40,40 40,36 40,32 88,32 88,36 	"/>
+	<polygon class="st1" points="32,80 24,80 24,76 24,72 32,72 32,76 	"/>
+	<polygon class="st1" points="48,88 32,88 32,84 32,80 48,80 48,84 	"/>
+	<polygon class="st1" points="80,96 48,96 48,92 48,88 80,88 80,92 	"/>
+	<polygon class="st1" points="96,88 80,88 80,83.65 80,80 96,80 96,84 	"/>
+	<polygon class="st1" points="104,80 96,80 96,76 96,72 104,72 104,76 	"/>
+	<polygon class="st1" points="104,48 104,40 88,40 88,48 96,48 96,56 104,56 104,72 112,72 112,48 	"/>
+	<polygon class="st1" points="24,40 24,48 16,48 16,56 16,72 24,72 24,56 32,56 32,48 40,48 40,40 	"/>
+</g>
+</svg>

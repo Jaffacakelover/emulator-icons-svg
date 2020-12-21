@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="vice" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 210 64"
+	 style="enable-background:new 0 0 210 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#01276A;}
+	.st1{fill:#FF0000;}
+</style>
+<path class="st0" d="M6.4,7.7h14.3l11.2,39.5H32L43.2,7.7H57L39.9,58H23.3L6.4,7.7z"/>
+<path class="st0" d="M71.6,7.7H85v25.1v25.1H71.6V32.8C71.6,32.8,71.6,7.7,71.6,7.7z"/>
+<path class="st0" d="M168.3,7.7h35.4v9.5h-22v10.4h20.8V37h-20.8v11.4h22.8v9.5h-36.2V7.7z"/>
+<g>
+	<path id="path3002" inkscape:connector-curvature="0" class="st0" d="M131.1,6.8c-16.3,0-29.6,11.6-29.6,26s13.2,26,29.6,26
+		c3.1,0,6.2-0.5,9.1-1.2v-13c-2.5,1.3-5.4,2-8.3,2c-8.9,0-16.2-6.2-16.2-13.8S122.9,19,131.8,19c3.1,0,6,0.7,8.3,2V8
+		C137.2,7.2,134.2,6.8,131.1,6.8z"/>
+	<polygon id="polygon9367" class="st0" points="140.3,22.9 162.4,22.9 152.6,32 140.3,32 	"/>
+	<polygon id="polygon9369" class="st1" points="140.3,42.8 162.4,42.8 152.6,33.8 140.3,33.8 	"/>
+</g>
+</svg>
