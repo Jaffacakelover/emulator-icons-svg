@@ -1,0 +1,17 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 350 90" style="enable-background:new 0 0 350 90" xml:space="preserve">
+  <style>
+    .st0{fill:#fff1e8}
+  </style>
+  <path class="st0" d="M335 30.5 319 14l-16 16.5 16 16z"/>
+  <path style="fill:#ffec27" d="M307 34.5h-8v-8h8v4z"/>
+  <path style="fill:#ffa300" d="M315 26.5h-8v-8h8v4z"/>
+  <path style="fill:#ff004d" d="M323 18.5h-8v-9h8V14z"/>
+  <path style="fill:#fca" d="M323 26.5h8v-8h-8v4z"/>
+  <path style="fill:#ff77a8" d="M331 34.5h8v-8h-8v4z"/>
+  <path style="fill:#83769c" d="M331 34.5h-8v8h8v-4z"/>
+  <path style="fill:#00e436" d="M315 34.5h-8v8h8v-4z"/>
+  <path style="fill:#29adff" d="M323 42.5h-8v8h8v-4z"/>
+  <g>
+    <path class="st0" d="M195 50.5h-8v32h32v-8h8v-32h-32v8zm8 0h8v24h-8v-24zM235 58.5h16v8h-16zM267 42.5v16h-8v24h40v-40h-32zm24 32h-16v-8h16v8zm0-16h-16v-8h16v8zM19 50.5h-8v32h16v-16h8v8h8v-8h8v-24H19v8zm8 0h8v8h-8v-8zM43 74.5h8v8h-8zM59 82.5h32v-8H75v-8h16v-8H75v-8h16v-8H59zM107 42.5h-8v8h8v32h16v-32h8v-8h-8zM147 50.5h-8v32h16v-16h8v8h8v-8h8v-24h-32v8zm8 0h8v8h-8v-8zM171 74.5h8v8h-8z"/>
+  </g>
+</svg>

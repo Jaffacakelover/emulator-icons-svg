@@ -1,0 +1,14 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 294 90" style="enable-background:new 0 0 294 90" xml:space="preserve">
+  <style>
+    .st0{fill:#fff1e8}
+  </style>
+  <path class="st0" d="M15 41.5v8H7v32h16v-16h24v-24H15zm16 16h-8v-8h8v8zM87 49.5v-8H55v8h8v24h-8v8h32v-8h-8v-24zM127 49.5v-8h-24v8h-8v32h32v-8h-16v-24zM143 41.5v8h-8v32h32v-8h8v-32h-32zm8 32v-24h8v24h-8zM183 57.5h16v8h-16zM215 41.5v16h-8v24h40v-40h-32zm24 32h-16v-8h16v8zm0-16h-16v-8h16v8zM283 29.5 267 13l-16 16.5 16 16z"/>
+  <path style="fill:#ffec27" d="M255 33.5h-8v-8h8v4z"/>
+  <path style="fill:#ffa300" d="M263 25.5h-8v-8h8v4z"/>
+  <path style="fill:#ff004d" d="M271 17.5h-8v-9h8V13z"/>
+  <path style="fill:#fca" d="M271 25.5h8v-8h-8v4z"/>
+  <path style="fill:#ff77a8" d="M279 33.5h8v-8h-8v4z"/>
+  <path style="fill:#83769c" d="M279 33.5h-8v8h8v-4z"/>
+  <path style="fill:#00e436" d="M263 33.5h-8v8h8v-4z"/>
+  <path style="fill:#29adff" d="M271 41.5h-8v8h8v-4z"/>
+</svg>
