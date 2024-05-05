@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <filter id="blur" width="200%" height="200%" x="-20%" y="-20%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1.5"/>
+    </filter>
+    <style>
+      .cls-1,.cls-5{fill:#ba2f8b;stroke-width:0}.cls-5{fill:#ff4040}
+    </style>
+  </defs>
+  <path d="M1 1h62v62H1z" style="fill:#0000b6;stroke:#020590;stroke-miterlimit:10;stroke-width:2px"/>
+  <g style="filter:url(#blur);opacity:.75">
+    <path d="M61.5 44.7c0 9.7-7.8 17.5-17.4 17.5H26c-9.6 0-17.4-7.8-17.4-17.5V26.3c0-9.7 7.8-17.5 17.4-17.5h18c9.6 0 17.4 7.9 17.4 17.5v18.4Z" style="fill:#000;stroke-width:0"/>
+  </g>
+  <path d="M13 13.1h38V44H13z" class="cls-5"/>
+  <path d="M13 42.9h38v8H13z" class="cls-1"/>
+  <path d="M19.7 40.9h25v4h-25z" style="fill:#ff0;stroke-width:0"/>
+  <path d="M13 32h38v2H13zm0-4h38v2H13zm0-4h38v2H13zm0-4h38v2H13z" class="cls-1"/>
+  <path d="M13 48h38v2H13zm0-4h38v2H13z" class="cls-5"/>
+  <path d="M13 40h38v2H13zm0-4h38v2H13zm0-20h38v2H13z" class="cls-1"/>
+  <path d="m22.9 12.5 9.6 28.8 9.9-28.8H22.9zm6.7 39.8L17.5 12.4h-3.7v3.5l11.3 37.2 4.5-.8zm21.3-39.9h-3.4L35 52.3l4.9.8 11-37.2v-3.5z" style="opacity:.25;fill:#000;stroke-width:0"/>
+  <path d="M42 8H23A15 15 0 0 0 8 23.2v19.1a15 15 0 0 0 15 15.2h19a15 15 0 0 0 15-15.2V23.1C57 14.8 50.2 8 42 8Zm-4.1 42H26.7L15.5 14h10.4l6.7 22.5L39.3 14h10L38 50Z" style="fill:#0000b6;stroke-width:0"/>
+</svg>

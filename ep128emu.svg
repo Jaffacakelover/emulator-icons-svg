@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <filter id="blur" width="200%" height="200%" x="-20%" y="-20%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1.5"/>
+    </filter>
+    <style>
+      .cls-3{fill:#fff}
+    </style>
+  </defs>
+  <path d="M1 1h62v62H1z" style="fill:#089b13;stroke:#028f14;stroke-miterlimit:10;stroke-width:2px"/>
+  <g style="filter:url(#blur);opacity:.75">
+    <path d="M61.5 44.7c0 9.7-7.8 17.5-17.4 17.5H26c-9.6 0-17.4-7.8-17.4-17.5V26.3c0-9.7 7.8-17.5 17.4-17.5h18c9.6 0 17.4 7.9 17.4 17.5v18.4Z" style="stroke-width:0;fill:#000"/>
+  </g>
+  <path d="M57 42.4c0 8.3-6.8 15.1-15 15.1H23A15 15 0 0 1 8 42.3v-19C8 14.8 14.7 8 23 8h19a15 15 0 0 1 15 15.2v19.2Z" style="fill:#00b518;stroke-width:0"/>
+  <path d="M34.3 27.9v1.6H28V14H17.2v5.5H22v25h-4.8V50H28V34.5h6.3v1.6h5.3v-8.2h-5.3z" class="cls-3"/>
+  <path d="M42.3 19.5H31.2V14h16.5v11.3h-5.4v-5.8zm0 19.2h5.4V50H31.2v-5.5h11.1v-5.8z" class="cls-3"/>
+</svg>
